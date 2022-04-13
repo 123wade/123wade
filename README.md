@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mouhamed wade
+- 👀 I’m interested in php, python and C++
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on ...
+- 📫 For reach me wademouhameddev@gmail.com
